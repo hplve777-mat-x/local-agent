@@ -8,5 +8,5 @@ imported/claude/**/settings.local.json
 imported/claude/**/.claude.json
 imported/claude/**/.mcp.json
 
-# Служебные выгрузки и��струментов, не часть проекта.
+# Служебные выгрузки инструментов, не часть проекта.
 /agent-tools/
